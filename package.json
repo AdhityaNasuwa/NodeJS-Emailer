@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-emailer",
+  "version": "1.0.0",
+  "description": "Send Email NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Email",
+    "Sending",
+    "NodeJS"
+  ],
+  "author": "Adhitya Nasuwa",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemailer": "^6.5.0",
+    "yargs": "^16.2.0"
+  }
+}
